@@ -4,6 +4,9 @@
   height: 100vh;
   margin-top: 0;
   background-color: #912215;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #381591;
 }
 /*img{
   float:left;
@@ -16,8 +19,9 @@ p{
   width: 300px;
   float: left;
   margin-top: 100px;
-  padding-left: 50px;
+  /*padding-left: 50px;*/
   color: white;
+  text-align: center;
 }
 .dry-heathen{
   width: 300px;
@@ -28,7 +32,8 @@ p{
 
 .before_after{
   width: 200px;
-  height: auto;
+  height: 150px;
+  padding: 30px;
 }
 h1{
   text-align: center;
@@ -45,5 +50,16 @@ body {
   font-weight: bold;
   text-align: center;
   font-size: 40px;
+}
 
+#before{
+  background-color: #912215;
+}
+
+#during{
+  background-color: #381591;
+}
+
+#after{
+  background-color: #912215;
 }
