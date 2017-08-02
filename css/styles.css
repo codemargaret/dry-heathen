@@ -1,0 +1,49 @@
+.sidebar{
+  float: right;
+  width: 15%;
+  height: 100vh;
+  margin-top: 0;
+  background-color: #912215;
+}
+/*img{
+  float:left;
+  z-index:
+}*/
+p{
+  color: white;
+}
+.column{
+  width: 300px;
+  float: left;
+  margin-top: 100px;
+  padding-left: 50px;
+  color: white;
+}
+.dry-heathen{
+  width: 300px;
+  height: auto;
+  float:left;
+  padding-right: 10px;
+}
+
+.before_after{
+  width: 200px;
+  height: auto;
+}
+h1{
+  text-align: center;
+  color: #912215;
+  font-family: fantasy;
+  font-size: 100px;
+}
+body {
+  background-color: black;
+  font-family: fantasy;
+}
+#shows{
+  color:black;
+  font-weight: bold;
+  text-align: center;
+  font-size: 40px;
+
+}
