@@ -33,7 +33,7 @@ _Add upcoming shows._
 ## Support and contact details
 _If you have any updates, questions, or suggestions please contact [Margaret] or Sarah or make a contribution._
 
-[Margaret]: mailto:margaretshelaghmcgovern@gmail.com
+[Margaret]: mailto:codeberry1@gmail.com
 
 ### License
 This software is licensed under the MIT License.
